@@ -223,8 +223,6 @@ const FileSteps: React.FC = () => {
 
         {/* RIGHT */}
         <div className="overflow-hidden rounded-[2.5rem] bg-white shadow-md">
-
-         
           <FeatureRow
             icon={<Download className="h-8 w-8 text-[#5963d5]" />}
             text="Customize and integrate our widget to receive files from your clients or other contacts directly from your own website."
